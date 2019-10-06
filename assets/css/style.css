@@ -1,0 +1,22 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+h1
+{
+    text-align: center;
+}
+h2 {
+    padding-bottom: 20px;
+}
+.container {
+    background-color: darksalmon;
+    overflow: hidden;
+    
+}
+.card {
+    float: right;
+    margin-bottom: 20px;
+}
